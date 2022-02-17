@@ -4,8 +4,8 @@ if(!defined('DB_SERVER')){
 }
 class DBConnection{
 
-    private $host = 'localhost:3310';
-    private $username = "root";
+    private $host = 'localhost:3306';
+    private $username = "o6q3bo4xs1yt";
     private $password = "";
     private $database = "db_freelance";
     
